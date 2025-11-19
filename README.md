@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aslan 
-- 📫 How to reach me ...
+- 👋 Hi, I’m Selo 
+- 📫 i am interested in web pentesting and malware analyst
 
 
 <!---
