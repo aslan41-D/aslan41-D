@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey Web Pentester & Red Team Enthusiast
 
-<!--
-**aslan41-D/aslan41-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔒 Passionate about **Web Application Penetration Testing**, **Red Teaming**, and **AI Security**. I enjoy breaking things to make them more secure and sharing my knowledge with the community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Languages:** Python, PHP, Bash
+- **Tools:** Burp Suite, Nmap, Metasploit, Wireshark, Gobuster, etc.
+- **Focus Areas:** OWASP Top 10, Active Directory, API Security, AI/LLM Security
+
+---
+
+### 📚 What I'm Up To
+- 🔭 Actively participating in **Bug Bounty** programs.
+- 🌱 Continuously learning and improving my skills on **TryHackMe**.
+- ✍️ Writing detailed walkthroughs for rooms I solve.
+
